@@ -1,0 +1,142 @@
+{
+  "name": "NeuroTube Nexus Cyber-Neon",
+  "dataColors": [
+    "#0FF0FC",
+    "#BC13FE",
+    "#39FF14",
+    "#FFE62D",
+    "#FD4499",
+    "#FF3131"
+  ],
+  "background": "#1A1A2E",
+  "foreground": "#E0E5E9",
+  "tableAccent": "#0FF0FC",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "outlines": [
+          {
+            "color": "#1A1A2E",
+            "show": true,
+            "radius": 5
+          }
+        ],
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#16213E"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": false
+          }
+        ],
+        "header": [
+          {
+            "fontFace": "Segoe UI Bold",
+            "color": {
+              "solid": {
+                "color": "#E0E5E9"
+              }
+            }
+          }
+        ],
+        "title": [
+          {
+            "fontFace": "Segoe UI Bold",
+            "color": {
+              "solid": {
+                "color": "#E0E5E9"
+              }
+            }
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#B2C9C5"
+              }
+            }
+          }
+        ],
+        "tooltips": [
+          {
+            "backgroundColor": {
+              "solid": {
+                "color": "#1A1A2E"
+              }
+            },
+            "fontColor": {
+              "solid": {
+                "color": "#E0E5E9"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#B2C9C5"
+              }
+            }
+          }
+        ],
+        "calloutValue": [
+          {
+            "fontFace": "Segoe UI Bold",
+            "color": {
+              "solid": {
+                "color": "#0FF0FC"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "header": [
+          {
+            "fontFace": "Segoe UI Bold",
+            "color": {
+              "solid": {
+                "color": "#E0E5E9"
+              }
+            },
+            "background": {
+              "solid": {
+                "color": "#1A1A2E"
+              }
+            }
+          }
+        ],
+        "items": [
+          {
+            "fontFace": "Segoe UI",
+            "color": {
+              "solid": {
+                "color": "#E0E5E9"
+              }
+            },
+            "background": {
+              "solid": {
+                "color": "#16213E"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
